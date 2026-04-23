@@ -20,7 +20,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](#)
 [![Terminal Linux](https://img.shields.io/badge/Terminal%20Linux-FCC624?logo=linux&logoColor=000)](#)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
 ### Design:
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
