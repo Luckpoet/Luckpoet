@@ -25,7 +25,7 @@
 ### Design:
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)](#)
-[![Paint.NET](https://img.shields.io/badge/Paint.NET-5C2D91?logo=windows&logoColor=white)](#)
+[![Paint.NET](https://img.shields.io/badge/Paint.NET-5C2D91?logo=dotnet&logoColor=white)](#)
 
 ### Estudando:
 [![Java](https://custom-icon-badges.demolab.com/badge/Java-FFFFFF.svg?logo=java&logoColor=orange)](#)
