@@ -8,12 +8,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![C](https://img.shields.io/badge/C-3178C6?logo=c&logoColor=fff)](#)
 
-### Cloud:
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)](#)
-
-### Banco de Dados:
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-
 ### Ferramentas:
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
@@ -26,9 +20,5 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=inkscape&logoColor=white)](#)
 [![Paint.NET](https://img.shields.io/badge/Paint.NET-5C2D91?logo=dotnet&logoColor=white)](#)
-
-### Estudando:
-[![Java](https://custom-icon-badges.demolab.com/badge/Java-FFFFFF.svg?logo=java&logoColor=orange)](#)
-[![PHP](https://custom-icon-badges.demolab.com/badge/PHP-purple.svg?logo=php&logoColor=black)](#)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
